@@ -1,2 +1,2 @@
 # PemrogramanTerstruktur
-tugas proktek
+python
