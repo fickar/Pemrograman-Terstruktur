@@ -1,2 +1,2 @@
-# PythonProject
+# PemrogramanTerstruktur
 tugas proktek
